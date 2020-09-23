@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://timlaxton:timlaxton123@cluster0.ccm9m.mongodb.net/Cluster0?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://timlaxton:timlaxton123@cluster0.ccm9m.mongodb.net/Cluster0?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken"
 }
